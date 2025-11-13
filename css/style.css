@@ -1,0 +1,7 @@
+.btn-info {
+  --bs-btn-color: var(--bs-white);
+  --bs-btn-bg: #032830;
+  --bs-btn-border-color: #032830;
+  --bs-btn-hover-color: var(--bs-white);
+    --bs-btn-hover-bg: rgba(3, 40, 48, .8);
+}
