@@ -5,3 +5,12 @@
   --bs-btn-hover-color: var(--bs-white);
     --bs-btn-hover-bg: rgba(3, 40, 48, .8);
 }
+.banner-s-pozadim {
+  background-image: url(../foto/bcg.jpeg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.backdrop-filter-neco {
+  backdrop-filter: blur(15px);
+}
