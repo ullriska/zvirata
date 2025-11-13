@@ -1,3 +1,8 @@
+:root {
+  --bs-primary: #083576;
+  --bs-primary-rgb: 8, 53, 118;
+}
+
 .btn-info {
   --bs-btn-color: var(--bs-white);
   --bs-btn-bg: #032830;
@@ -13,4 +18,16 @@
 }
 .backdrop-filter-neco {
   backdrop-filter: blur(15px);
+}
+
+
+.btn-primary {
+  --bs-btn-bg: var(--bs-primary);
+  --bs-btn-border-color: var(--bs-primary);
+  --bs-btn-hover-bg: rgba(var(var(--bs-primary-rgb), .9));
+  --bs-btn-hover-border-color: rgba(var(var(--bs-primary-rgb), .9));
+  --bs-btn-focus-shadow-rgb: var(--bs-primary-rgb);
+  --bs-btn-active-color: var(--bs-primary);
+  --bs-btn-active-bg:rgba(var(var(--bs-primary-rgb), .2));
+  --bs-btn-active-border-color: rgba(var(var(--bs-primary-rgb), .2));
 }
