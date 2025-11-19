@@ -31,3 +31,65 @@
   --bs-btn-active-bg:rgba(var(var(--bs-primary-rgb), .2));
   --bs-btn-active-border-color: rgba(var(var(--bs-primary-rgb), .2));
 }
+
+.contact{
+  display: flex;
+  justify-content: center;
+  background-color:  #083576;
+  padding: 50px;
+  font-size: 30px;
+  color: white;
+  
+}
+
+.email{
+  display: flex;
+  justify-content: center;
+  background-color:  #083576;
+  padding: 50px;
+  font-size: 20px;
+  color: white;
+  padding-top: 50px;
+}
+
+.companytext{
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    background-color: #083576;
+    padding-left:300px ;
+    
+}
+
+
+
+.footer-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 0;
+    background-color: #083576;
+}
+
+.footer-text {
+    color: white;
+    font-size: 18px;
+    line-height: 2;
+   
+}
+
+.footer-map iframe {
+    border-radius: 8px;
+    
+}
+
+
+.footer-section {
+    background-color: #083576;
+    width: 100%;
+}
+
+
