@@ -111,13 +111,7 @@
   height: 100%;
 }
 
-.wide {
-  justify-content: center;
-  display: flex;
-  padding-bottom: 70px;
-  background-color: #e9f3ff;
-  padding-top: 70px;
-}
+
 
 .footerbottom {
   padding-top: 20px;
@@ -178,3 +172,11 @@
   justify-content: center;
   padding-bottom: 60px;
 }
+
+.chov{
+  justify-content: center;
+  display: flex;
+  size: 60px;
+  padding-top: 20px;
+}
+
