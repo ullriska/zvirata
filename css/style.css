@@ -166,3 +166,15 @@
 .footer-link:hover {
   opacity: 0.8;
 }
+
+
+.vedlejsii{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.fotoptak{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 60px;
+}
