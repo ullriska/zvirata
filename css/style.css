@@ -176,11 +176,19 @@
 .chov{
   justify-content: center;
   display: flex;
-  size: 60px;
   padding-top: 20px;
+  font-size: 50px;
 }
 
 .carousel img {
   object-fit: cover;
+}
+
+.vet{
+  padding-left: 120px;
+}
+
+.card-title1{
+  text-align: center;
 }
 
