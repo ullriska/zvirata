@@ -191,4 +191,12 @@
 .card-title1{
   text-align: center;
 }
-
+.bg-home-blur {
+  backdrop-filter: blur(15px);
+}
+.bg-home {
+background-image: url(../foto/araptak.jpg);
+background-position: center -16rem;
+background-repeat: no-repeat;
+background-size: cover;
+}
